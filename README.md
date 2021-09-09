@@ -13,7 +13,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mequiroz/mat281_portfolio_template/master?urlpath=lab)
 
-* María Quiroz : [![Linkedin](https://www.linkedin.com/in/mar%C3%ADa-elena-quiroz-a9113bb3/)]
+* María Quiroz : [![Linkedin](https://img.icons8.com/material-rounded/24/000000/linkedin--v1.png)](https://www.linkedin.com/in/mar%C3%ADa-elena-quiroz-a9113bb3/)
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
