@@ -13,3 +13,14 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mequiroz/mat281_portfolio_template/master?urlpath=lab)
 
+* María Quiroz : [My Page](https://www.linkedin.com/in/mar%C3%ADa-elena-quiroz-a9113bb3/)
+
+* __Repositorio Curso__:
+    - [2019](https://github.com/aoguedao/mat281_2019S2)
+    - [2020](https://github.com/aoguedao/mat281_2020S2)
+
+## Setup
+
+Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
+
+Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL. 
